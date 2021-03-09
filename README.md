@@ -1,4 +1,4 @@
-# Decentralised_Allocation
+# FLOCK
 
 This repository contains the code for evaluation of FLOCK, a scalable allocation solutions for decentralised services on blockchain. 
 
