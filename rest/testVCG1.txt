@@ -1,0 +1,44 @@
+ITEMS TO SELL:
+    Twelve-foot pole
+    Tiny dining table
+    Tiny chair
+    Tiny chair
+  3 Tiny Potion of Climbing
+  2 Tiny Potion of Healing
+---------------
+
+Name: Gwyndolin
+Bids:
+  50     Twelve-foot pole
+   4.99  Tiny potion of healing
+   5     Tiny potion of climbing
+   2     Tiny potion of climbing
+   0.5   Tiny potion of climbing
+  10     Tiny chair & Tiny chair
+  30     Tiny chair & Tiny chair & Tiny dining table
+
+------------
+
+Name: Tchok
+Bids:
+   0.1  Twelve-foot pole
+   1    Tiny potion of climbing
+   5    Tiny potion of climbing & Tiny potion of climbing
+
+--------
+
+Name: Gorkil
+Bids:
+   10   Tiny chair
+    5   Tiny chair
+   20   Tiny dining table
+   40   Tiny chair & tiny chair & tiny dining table
+--------
+
+Name: Bunnahabhain
+Bids:
+   10   Tiny potion of climbing
+   10   Tiny potion of healing
+   10   Tiny potion of climbing & Tiny potion of healing
+
+-------
