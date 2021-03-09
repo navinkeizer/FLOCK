@@ -109,8 +109,8 @@ contract Billboard{
 	function cN(address _adddress) internal view returns (bool){
 	    for(uint i = 0; i<Clients.length; i++)
 	        require(Clients[i] != _adddress);
-	    for(uint i = 0; i<Sellers.length; i++)
-	        require(Sellers[i] != _adddress);
+	    for(uint j = 0; j<Sellers.length; j++)
+	        require(Sellers[j] != _adddress);
 	}
 
 }
